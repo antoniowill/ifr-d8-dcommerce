@@ -1,0 +1,14 @@
+uuid: 152fa04c-2f48-4ab7-964f-6aa74a51fb82
+name: ifr-d8-dcommerce
+mail: agarcia01@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
